@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ScooP\\RiderProjects\\WebshopCheckoutAPI\\WebshopCheckoutAPI.csproj": {}
+    "C:\\Users\\Bruger\\IdeaProjects\\WebshopCheckoutAPI\\WebshopCheckoutAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ScooP\\RiderProjects\\WebshopCheckoutAPI\\WebshopCheckoutAPI.csproj": {
+    "C:\\Users\\Bruger\\IdeaProjects\\WebshopCheckoutAPI\\WebshopCheckoutAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ScooP\\RiderProjects\\WebshopCheckoutAPI\\WebshopCheckoutAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Bruger\\IdeaProjects\\WebshopCheckoutAPI\\WebshopCheckoutAPI.csproj",
         "projectName": "WebshopCheckoutAPI",
-        "projectPath": "C:\\Users\\ScooP\\RiderProjects\\WebshopCheckoutAPI\\WebshopCheckoutAPI.csproj",
-        "packagesPath": "C:\\Users\\ScooP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ScooP\\RiderProjects\\WebshopCheckoutAPI\\obj\\",
+        "projectPath": "C:\\Users\\Bruger\\IdeaProjects\\WebshopCheckoutAPI\\WebshopCheckoutAPI.csproj",
+        "packagesPath": "C:\\Users\\Bruger\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bruger\\IdeaProjects\\WebshopCheckoutAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ScooP\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Bruger\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

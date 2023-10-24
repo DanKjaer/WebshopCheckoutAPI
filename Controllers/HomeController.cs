@@ -1,7 +1,5 @@
-using System.Diagnostics;
 using DotNetEnv;
 using Microsoft.AspNetCore.Mvc;
-using WebshopCheckoutAPI.Models;
 
 namespace WebshopCheckoutAPI.Controllers;
 
