@@ -67,3 +67,6 @@ C:\Users\Bruger\IdeaProjects\WebshopCheckoutAPI\obj\Debug\net8.0\refint\WebshopC
 C:\Users\Bruger\IdeaProjects\WebshopCheckoutAPI\obj\Debug\net8.0\WebshopCheckoutAPI.pdb
 C:\Users\Bruger\IdeaProjects\WebshopCheckoutAPI\obj\Debug\net8.0\WebshopCheckoutAPI.genruntimeconfig.cache
 C:\Users\Bruger\IdeaProjects\WebshopCheckoutAPI\obj\Debug\net8.0\ref\WebshopCheckoutAPI.dll
+C:\Users\Bruger\IdeaProjects\WebshopCheckoutAPI\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Bruger\IdeaProjects\WebshopCheckoutAPI\bin\Debug\net8.0\MailKit.dll
+C:\Users\Bruger\IdeaProjects\WebshopCheckoutAPI\bin\Debug\net8.0\MimeKit.dll
